@@ -1,0 +1,54 @@
+{
+  "version": 2,
+  "invulnerable": false,
+  "isFrozen": false,
+  "lastKnownName": "marf1n",
+  "lastLocation": {
+    "x": 154.36612694303594,
+    "y": 72.8697721687211,
+    "z": 233.31226532412302,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "4ac701c8-5750-48ee-9eb1-1e17da7d151c"
+  },
+  "lastLogin": 1578519396527,
+  "lastLogout": 1578523265133,
+  "lastIP": "/93.77.66.207",
+  "firstJoin": 1578504830440,
+  "startedFirstJoin": false,
+  "fly": false,
+  "jailOnNextLogin": false,
+  "vanish": false,
+  "ignoreList": [],
+  "warnings": [],
+  "notes": [],
+  "mail": [],
+  "homes": {
+    "home2": {
+      "x": -126.81680802722371,
+      "y": 111.93408809192874,
+      "z": -165.5875603104005,
+      "rotx": 11.058716773986816,
+      "roty": -226.0670928955078,
+      "rotz": 0.0,
+      "world": "4ac701c8-5750-48ee-9eb1-1e17da7d151c"
+    },
+    "home": {
+      "x": 156.5,
+      "y": 71.0,
+      "z": 233.5,
+      "rotx": 20.915700912475586,
+      "roty": -46.401580810546875,
+      "rotz": 0.0,
+      "world": "4ac701c8-5750-48ee-9eb1-1e17da7d151c"
+    }
+  },
+  "powertools": {},
+  "kitLastUsedTime": {
+    "start": 1578522901
+  },
+  "user-prefs": {
+    "nucleus:view-staff-chat": true
+  }
+}

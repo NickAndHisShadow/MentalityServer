@@ -1,0 +1,33 @@
+cheats {
+    all=0
+    antiknockback=0
+    antipotion=0
+    autoclick=0
+    autosteal=0
+    blink=0
+    fastbow=0
+    fasteat=0
+    fastladder=0
+    fastplace=0
+    fly=0
+    forcefield=0
+    jesus=0
+    nofall=0
+    noslowdown=0
+    phase=0
+    regen=0
+    scaffold=0
+    sneak=0
+    speed=0
+    spider=0
+    step=0
+    timer=0
+    xray=0
+}
+lang="en_US"
+minerate {
+    coal=0
+    diamond=0
+    gold=0
+    iron=0
+}

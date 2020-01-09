@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "node": {
+    "4c408e62-da37-3729-a4a1-ca46daaf1a4f": {
+      "ipAddress": "178.150.148.32",
+      "isMuted": false
+    },
+    "585da6fd-0d98-3233-a6a4-a06651e4d931": {
+      "ipAddress": "178.150.149.167",
+      "isMuted": false
+    },
+    "c65e19ac-01f2-345f-8d5a-fa0989121759": {
+      "ipAddress": "31.202.50.220",
+      "isMuted": false
+    },
+    "3c6f494b-a581-303a-a5c3-0ff323f394ff": {
+      "ipAddress": "93.77.66.207",
+      "isMuted": false
+    },
+    "367095ff-83f8-3916-afbc-baa70dbb1e18": {
+      "ipAddress": "176.113.252.7",
+      "isMuted": false
+    },
+    "a127f745-d9a5-3b12-9121-eb940b49f22a": {
+      "ipAddress": "95.215.49.77",
+      "isMuted": false
+    }
+  }
+}

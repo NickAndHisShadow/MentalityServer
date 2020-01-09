@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "invulnerable": true,
+  "jailOnNextLogin": false,
+  "fly": false,
+  "isFrozen": false,
+  "lastKnownName": "DriveYT9",
+  "lastLogin": 1578522449552,
+  "lastLogout": 1578523265145,
+  "lastIP": "/31.202.50.220",
+  "firstJoin": 1578502709512,
+  "startedFirstJoin": false,
+  "vanish": false,
+  "lastLocation": {
+    "x": -3194.4170664586513,
+    "y": 64.16610926093821,
+    "z": -28787.09985135487,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "4ac701c8-5750-48ee-9eb1-1e17da7d151c"
+  },
+  "ignoreList": [],
+  "warnings": [],
+  "notes": [],
+  "mail": [],
+  "homes": {
+    "home": {
+      "x": 348.63990097285404,
+      "y": 78.0,
+      "z": -360.8939048041624,
+      "rotx": 32.93568801879883,
+      "roty": -48.7200927734375,
+      "rotz": 0.0,
+      "world": "4ac701c8-5750-48ee-9eb1-1e17da7d151c"
+    }
+  }
+}

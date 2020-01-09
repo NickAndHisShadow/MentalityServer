@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "isFrozen": false,
+  "vanish": false,
+  "lastKnownName": "Kotofan",
+  "lastLogin": 1578524627922,
+  "lastLogout": 1578525079763,
+  "lastIP": "/178.150.149.167",
+  "firstJoin": 1578497875115,
+  "startedFirstJoin": false,
+  "fly": false,
+  "invulnerable": false,
+  "jailOnNextLogin": false,
+  "lastLocation": {
+    "x": 167.152570130481,
+    "y": 71.0,
+    "z": 256.36277149167347,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "4ac701c8-5750-48ee-9eb1-1e17da7d151c"
+  },
+  "mail": [],
+  "warnings": [],
+  "notes": []
+}

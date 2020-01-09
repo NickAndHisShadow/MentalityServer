@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "jailOnNextLogin": false,
+  "fly": false,
+  "invulnerable": false,
+  "isFrozen": false,
+  "lastKnownName": "cheeseburger650",
+  "lastLogin": 1578509579873,
+  "lastLogout": 1578511112601,
+  "lastIP": "/95.215.49.77",
+  "firstJoin": 1578509579873,
+  "startedFirstJoin": false,
+  "warnings": [],
+  "vanish": false,
+  "notes": [],
+  "mail": [],
+  "lastLocation": {
+    "x": 110.30000001192093,
+    "y": 70.0,
+    "z": 249.30000001192093,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "4ac701c8-5750-48ee-9eb1-1e17da7d151c"
+  }
+}

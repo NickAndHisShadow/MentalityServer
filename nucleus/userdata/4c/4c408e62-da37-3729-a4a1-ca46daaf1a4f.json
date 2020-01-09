@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "fly": false,
+  "invulnerable": false,
+  "jailOnNextLogin": false,
+  "isFrozen": false,
+  "vanish": true,
+  "lastKnownName": "Niklz",
+  "lastLogin": 1578525312814,
+  "lastLogout": 1578525432410,
+  "lastIP": "/178.150.148.32",
+  "firstJoin": 1578497735861,
+  "startedFirstJoin": false,
+  "lastLocation": {
+    "x": 180.66257552188907,
+    "y": 76.11650136792812,
+    "z": 274.3592798165415,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "4ac701c8-5750-48ee-9eb1-1e17da7d151c"
+  },
+  "warnings": [],
+  "homes": {},
+  "mail": [],
+  "notes": []
+}

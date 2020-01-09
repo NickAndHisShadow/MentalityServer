@@ -1,0 +1,16 @@
+{
+  "kits": {
+    "start": {
+      "stacks": [],
+      "interval": 0,
+      "cost": 0.0,
+      "autoRedeem": false,
+      "oneTime": false,
+      "displayMessage": true,
+      "ignoresPermission": false,
+      "hidden": false,
+      "commands": [],
+      "firstJoin": true
+    }
+  }
+}
